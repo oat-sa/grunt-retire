@@ -22,9 +22,9 @@
   "scripts": {
   },
   "dependencies": {
-    "retire": "~1.2.x",
+    "retire": ">=2.0.0",
     "async": "~1.5.x",
-    "request": "2.x.x"    
+    "request": "2.x.x"
   },
   "devDependencies": {
     "grunt": "~1.0.x",
