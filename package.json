@@ -7,7 +7,7 @@
     "name": "Ståle Pettersen",
     "email": "staale@gmail.com"
   },
-  "license" : "Apache-2.0",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/RetireJS/grunt-retire.git"
@@ -19,12 +19,11 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
-    "retire": ">=2.0.0",
     "async": "~1.5.x",
-    "request": "2.x.x"
+    "request": "2.x.x",
+    "retire": "github:oat-sa/retire.js#clearNodeVersion"
   },
   "devDependencies": {
     "grunt": "~1.0.x",
